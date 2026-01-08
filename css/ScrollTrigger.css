@@ -1,0 +1,43 @@
+body {
+    font-size: 16px;
+    box-sizing: content-box;
+    font-family: sans-serif;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: repeat;
+    scroll-behavior: smooth;
+}
+
+html {
+    scroll-behavior: smooth;
+    /* overflow-x: hidden; */
+}
+
+
+.Uno, .Dos {
+    height: 100vh;
+}
+
+.Uno {
+    background-color: pink;
+}
+
+.Dos {
+    background-color: salmon;
+}
+
+.Square {
+    width: 150px;
+    height: 20vh;
+    background-color: fuchsia;
+}
+
+
+
+
+
+.red {
+    background-color: red;
+}
