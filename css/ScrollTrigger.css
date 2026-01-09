@@ -16,6 +16,10 @@ html {
 }
 
 
+section {
+    height: 100vh;
+}
+
 .Uno, .Dos {
     height: 100vh;
 }
@@ -30,14 +34,28 @@ html {
 
 .Square {
     width: 150px;
-    height: 20vh;
+    height: 150px;
     background-color: fuchsia;
 }
 
-
-
-
+.Square2 {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+}
 
 .red {
     background-color: red;
+}
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
